@@ -1,6 +1,6 @@
 # Pipewire debug Dockerfile
 
-Just a little Makefile/Dockerfile to run the pipewire dev version (following [this tutorial](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/Troubleshooting#running-development-version-of-pipewire)), without having to install any dependency on your host.
+Just a little Makefile/Dockerfile to build and run the pipewire dev version (following [this tutorial](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/Troubleshooting#running-development-version-of-pipewire)), without having to install any build dependency on your host.
 
 ## How to use
 
